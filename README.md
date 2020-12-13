@@ -1,8 +1,8 @@
 ## I'm Waseem!
 
-👨‍💻 I love coding, data analysis, and visualization.
+### 👨‍💻 I love coding, data analysis, and visualization.
 
-### I mainly work with these technologies
+I work with these technologies:
 
 <p align="center">
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
@@ -15,21 +15,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### I had previous experience with these technologies
-
-<p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://dianhasan.files.wordpress.com/2013/11/logo_sas-institute_www-sas-com_dian-hasan-branding_nc-us-3.png?w=140&h=140" alt="sas" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="40" height="40"/>
-    <img src="https://vcsa.ucsd.edu/_images/assessment/tableau-logo.png" alt="tableau" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="racket" width="40" height="40"/>
-</p>
-
-
-### I write posts in [my personal blog](https://waseem-medhat.netlify.app/)
-
-<p align="center">
-  
-</p>
-
-### I make visualizaitons on [VizHub](vizhub.com/waseem-medhat)
+- Read my posts in [my personal blog](https://waseem-medhat.netlify.app/)
+- See my visualizaitons on [VizHub](https://vizhub.com/waseem-medhat)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/waseem-medhat/)
