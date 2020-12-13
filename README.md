@@ -1,16 +1,22 @@
-### Hi there 👋
+## I'm Waseem!
 
-<!--
-**waseem-medhat/waseem-medhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I love coding, data analysis, and visualization.
 
-Here are some ideas to get you started:
+### I work with these technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+### I write posts in [my personal blog](https://waseem-medhat.netlify.app/)
+
+<p align="center">
+  
+</p>
+
+### I make visualizaitons on [VizHub](vizhub.com/waseem-medhat)
