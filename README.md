@@ -8,6 +8,8 @@ My 7-year career journey has taken me from pharmacy to biostatistics and data sc
 <div align="center">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="ubuntu logo"  />
