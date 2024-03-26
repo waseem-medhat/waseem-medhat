@@ -40,6 +40,8 @@ Also, you can check my other profiles:
 
 <br />
 
+<!--
 <a href="https://www.buymeacoffee.com/wipdev" target="_blank">
   <img src="https://i.imgur.com/etO0OxB.png" height="50" />
 </a>
+-->
