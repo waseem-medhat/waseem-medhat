@@ -1,6 +1,6 @@
 ## I build web applications and command-line tools using Go
 
-My 7-year career journey has taken me from pharmacy to biostatistics and data science, and then to web development. Starting on the front-end side, I built multiple websites, application UIs, and analytics dashboards custom-made for pharmaceutical companies. Now, I'm finding my niche in the back-end side thanks to the elegantly simple Go language, which I used to build CLIs, web back-ends, and microservices. I love tinkering with software, I write about it in my [personal blog](https://wipdev.hashnode.dev), and I'm always looking forward to a new challenge or problem to solve.
+My 7-year career journey has taken me from pharmacy to biostatistics and data science, and then to web development. Starting on the front-end side, I built multiple websites, application UIs, and analytics dashboards custom-made for pharmaceutical companies. Now, I'm finding my niche in the back-end side thanks to the elegantly simple Go language, which I used to build CLIs, web back-ends, and microservices. I love tinkering with software, I write about it in my [personal blog](https://wipdev.netlify.app), and I'm always looking forward to a new challenge or problem to solve.
 
 
 ## Tech Stack
