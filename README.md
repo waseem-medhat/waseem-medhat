@@ -1,9 +1,24 @@
-## I build web applications and command-line tools using Go
+## Hello! 👋🏻 I'm Waseem
 
-My 7-year career journey has taken me from pharmacy to biostatistics and data science, and then to web development. Starting on the front-end side, I built multiple websites, application UIs, and analytics dashboards custom-made for pharmaceutical companies. Now, I'm finding my niche in the back-end side thanks to the elegantly simple Go language, which I used to build CLIs, web back-ends, and microservices. I love tinkering with software, I write about it in my [personal blog](https://wipdev.netlify.app), and I'm always looking forward to a new challenge or problem to solve.
+I’ve been tinkering with code, automating tasks, building products, and meeting deadlines for 7+ years in a journey that has taken me from statistical analysis and automated reporting to front-end development and eventually back-end development. I am also a Linux and functional programming enthusiast.
 
+## Let's Connect!
 
-## Tech Stack
+- You can find me [on LinkedIn](https://www.linkedin.com/in/waseem-medhat/).
+- I write about my coding journey in a [personal blog](https://wipdev.netlify.app/) that you can check out.
+- Other profiles:
+  + [Boot.dev](https://www.boot.dev/u/wipdev)
+  + [LeetCode](https://leetcode.com/wipdev-tech/)
+
+<br />
+
+<!--
+<a href="https://www.buymeacoffee.com/wipdev" target="_blank">
+  <img src="https://i.imgur.com/etO0OxB.png" height="50" />
+</a>
+-->
+
+## Tech Stacks
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
@@ -28,20 +43,3 @@ My 7-year career journey has taken me from pharmacy to biostatistics and data sc
   <img width="12" />
   <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
 </div>
-
-## Let's Connect
-
-You can find me [on LinkedIn](https://www.linkedin.com/in/waseem-medhat/)
-
-Also, you can check my other profiles:
-
-- [Boot.dev](https://www.boot.dev/u/wipdev)
-- [LeetCode](https://leetcode.com/wipdev-tech/)
-
-<br />
-
-<!--
-<a href="https://www.buymeacoffee.com/wipdev" target="_blank">
-  <img src="https://i.imgur.com/etO0OxB.png" height="50" />
-</a>
--->
