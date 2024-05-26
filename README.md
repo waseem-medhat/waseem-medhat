@@ -32,11 +32,15 @@ I’ve been tinkering with code, automating tasks, building products, and meetin
   <img width="8" />
   <img src="https://cdn.simpleicons.org/phoenixframework" height="40" alt="phoenix logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres logo"  />
-  <img width="8" />
   <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/django" height="40" alt="django logo"  />
+  <img src="https://cdn.simpleicons.org/django/496E60" height="40" alt="django logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/sqlite" height="40" alt="sqlite logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/turso" height="40" alt="turso logo"  />
 </div>
 
 <h3>
