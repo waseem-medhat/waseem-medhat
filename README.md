@@ -25,7 +25,6 @@ I’ve been tinkering with code, automating tasks, building products, and meetin
 </h3>
 
 <div align="left">  
-  <img width="8" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/elixir/4B275F" height="40" alt="elixir logo"  />
@@ -50,7 +49,6 @@ Frontend
 </h3>
 
 <div align="left">  
-  <img width="8" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -70,8 +68,7 @@ Frontend
 Other
 </h3>
 
-<div align="left">  
-  <img width="8" />
+<div align="left">
   <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/r" height="40" alt="r logo"  />
