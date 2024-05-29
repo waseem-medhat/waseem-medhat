@@ -32,9 +32,11 @@ I’ve been tinkering with code, automating tasks, building products, and meetin
   <img width="8" />
   <img src="https://cdn.simpleicons.org/phoenixframework" height="40" alt="phoenix logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/python" height="40" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/django/496E60" height="40" alt="django logo"  />
+  <img src="https://cdn.simpleicons.org/express/999" height="40" alt="express logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="mongodb logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres logo"  />
   <img width="8" />
@@ -69,6 +71,8 @@ Other
 </h3>
 
 <div align="left">  
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/r" height="40" alt="r logo"  />
   <img width="8" />
