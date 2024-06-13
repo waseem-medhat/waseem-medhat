@@ -7,6 +7,7 @@ I’ve been tinkering with code, automating tasks, building products, and meetin
 - You can find me [on LinkedIn](https://www.linkedin.com/in/waseem-medhat/).
 - I write about my coding journey in a [personal blog](https://wipdev.netlify.app/) that you can check out.
 - Other profiles:
+  + [Daily.dev](https://app.daily.dev/wipdev)
   + [Boot.dev](https://www.boot.dev/u/wipdev)
   + [LeetCode](https://leetcode.com/wipdev-tech/)
 
